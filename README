@@ -1,0 +1,47 @@
+Trabalho realizado por Bruno Carvalho 	201508043
+
+Programa foi testado em Ubuntu 16.04 LTS
+
+---------------------------------------------------------------------------------------
+
+Para compilar:
+
+	make
+	
+---------------------------------------------------------------------------------------
+
+Para executar:
+
+	./algebra < input_test	(para correr a partir do input dado num ficheiro)
+
+	ou
+
+	./algebra
+
+---------------------------------------------------------------------------------------
+
+Input:
+
+Primeira linha é o metodo que pretendemos usar
+
+	somar		(para somar dois polinomios)
+	derivar		(para derivar um polinomio)
+	integral	(para integrar um polinomio em função a uma variavel)
+	normalizar	(para normalizar um polinomio)
+
+---------------------------------------------------------------------------------------
+
+Atenção:
+	para usar expoente ^. 
+	exemplo: 5x^2.
+
+	usar 1 para variaveis com coeficiente 1.
+	exemplo: 1x
+
+(Ver input_test)
+
+
+
+
+
+
